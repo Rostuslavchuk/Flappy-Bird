@@ -32,7 +32,7 @@ body{
 
 .game__canvas { 
     will-change: transform;
-    background: url('./assets/Flappy_Bird_Background.png');
+    background: url('assets/Flappy_Bird_Background.png');
     background-size: contain;
     background-position: center;
     background-repeat: repeat-x;
